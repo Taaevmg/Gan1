@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main (){
-str::cout << "HELO";
+std::cout << "|||||||||||||||||||||||||||||||||||||||\nHello, World!\n|||||||||||||||||||||||||||||||\n";
 return 0;
 }
