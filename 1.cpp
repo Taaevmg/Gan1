@@ -1,6 +1,3 @@
-#include <iostream>
+#!/bin/bash
 
-int main (){
-std::cout << "|||||||||||||||||||||||||||||||||||||||\nHello, World!\n|||||||||||||||||||||||||||||||\n";
-return 0;
-}
+echo "Hello, Word!"
